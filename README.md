@@ -21,6 +21,8 @@ IMDB-SwiftUI is in pure Swift UI, the goal is to see how far SwiftUI can go in i
 It'll evolve with SwiftUI, every time Apple edits existing or adds new features to the framework.
 
 ## Platforms
-
 Currently IMDB-SwiftUI runs on iPhone, iPad, and macOS. 
 
+## YouTube Link
+You can watch my video introducing my project from the link below.
+#### <https://www.youtube.com/watch?v=fXe4_6boUks>
