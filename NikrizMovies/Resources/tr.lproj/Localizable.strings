@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NikrizMovies
+
+  Created by Ege Aydemir on 18.09.2022.
+  
+*/
+
+"app_title" = "IMDB API";
+"no_results" = "Sonuç Bulunamadı";
